@@ -1,0 +1,21 @@
+<div class="box3">
+<h2 class="sidebar-title">Recent Posts</h2>
+<ul id="recently">
+<li><a href="http://oklahomily.blogspot.com/2006/08/its-fool-for-pity-friday.html">It's 'Fool for the Pity' Friday</a></li>
+<li><a href="http://oklahomily.blogspot.com/2006/08/new-mexico-governor-going-back-to.html">New Mexico governor going back to North Korea?</a></li>
+<li><a href="http://oklahomily.blogspot.com/2006/08/abc-jumps-shark-on-overweight-bush.html">ABC jumps the shark on overweight Bush</a></li>
+<li><a href="http://oklahomily.blogspot.com/2006/08/circle-august-22-on-your-calendars.html">Circle August 22 on your calendars</a></li>
+<li><a href="http://oklahomily.blogspot.com/2006/08/where-are-missing-egyptian-men.html">Where are the missing Egyptian men?</a></li>
+<li><a href="http://oklahomily.blogspot.com/2006/08/getting-oxymoronic-in-eu.html">Getting Oxymoronic in the EU</a></li>
+<li><a href="http://oklahomily.blogspot.com/2006/07/sexually-powerful-hillary-bust.html">Sexually powerful Hillary bust - premature</a></li>
+<li><a href="http://oklahomily.blogspot.com/2006/07/worst-ever-how-does-he-know.html">Worst ever? How does he know?</a></li>
+<li><a href="http://oklahomily.blogspot.com/2006/07/some-improvement-at-border.html">Some improvement at the border</a></li>
+<li><a href="http://oklahomily.blogspot.com/2006/07/oh-yeah-this-is-good-idea.html">Oh yeah, this is a good idea ...</a></li>
+</ul>
+<p id="powered-by"><a href="http://www.blogger.com"><img src="http://buttons.blogger.com/bloggerbutton1.gif" alt="Powered by Blogger" /></a></p>
+<!--
+
+    <p>This is a paragraph of text that could go in the sidebar.</p>
+
+    -->
+</div>

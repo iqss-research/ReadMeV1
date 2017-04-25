@@ -1,0 +1,24 @@
+<div>
+<span>I'd like to say a word about the so-called "Incumbent Rule." The Myster Pollster has a </span>
+<a href="http://www.mysterypollster.com/main/2004/10/the_incumbent_r.html">
+<span>piece</span>
+</a>
+<span> on it today, which the seemingly omnipresent cyber-guru Jerry Cornwell has pointed out to me.
+<br />
+<br />The basic presmise is that last-minute deciders jump to the challenging party.
+<br />
+<br />
+<u>Here is the key problem with this rule.</u> It involves the central limit theorem. If you wish to make a statement about the population -- in this case the population is the universe of presidential elections in which an incumbent stands for reelection -- you need to have at least <i>30 observations</i>. Why is this the case? Well, it involves some pretty heavy statistics, but we can think of it intuitively. Suppose you want to take a sample of people in your church, which has 1,000 members, to see how much money the average parishener throws into the gift tray every week. Some people will throw more in, some people will throw less in. To get a sense of what the average amount is, what you have to do is generalize from your sample to the population. But if you only sample 8 people, the chance that you will wind up with a group of people which is unrepresentative is very, very great -- too great to make claims about your congregation from those 8 people. You need to have more people -- if you take enough people, the outlying stingies will "balance out" the outlying generous people.
+<br />
+<br />This is a problem that social scientists -- particularly those who study international relations -- face. It is the problem of the "small n sample." If, you wanted to examine a question about foreign involvement in revolutions in the post-cold war world, you will likely only have about 8 to 10 observations. This makes developing an argument about what usually happens (i.e. an argument about the average result) particularly difficult. There are statistical tests to get around it (they involve what is called the t-statistic), but they have a very high error rate -- especially when the standard deviation of the sample mean is high.
+<br />
+<br />What the mystery pollster (and others) is trying to do is essentially the same as what IR people try to do. He is taking a series of observations and developing an average for how undecideds break to the challenger. This is what "the incumbent rule" is driving at. His problem is that he has a small number of observations, only 8 presidential elections since 1956 where there is a challenger v. incumbent (some have tried to broaden the field to look at all elections and derive a rule from that, but I think that is foolish -- presidential elections are fundamentally different from an election for dog catcher or US Senator). It is really, really, really hard to make a rule from eight observations. And, given that 1976 and 1984 stand out as exceptions (undecideds broke evenly at the end of both campaigns) -- when I say "hard," I actually mean <i>impossible.</i>
+<br />
+<br />Furthermore, 1992 itself is quite incommensurable to the other the elections in the sample. Perot and Bush picked up the last minute deciders -- Clinton actually lost ground among them. A good social scientist would probably would exclude 1992 from his analysis because it is so uncharacteristic in unrelated ways. So, that would be 2 exceptions out of 7. And, if you go back to 1948, for which there is a Gallup survey, you'll see that Truman picked up the undecideds, too. So, that would be 3 exceptions out of 8.
+<br />
+<br />
+<i>What kind of rule is that?</i> You could easily flip a coin eight times and get heads five times. That does not mean there is a rule about getting heads! Given the large number of exceptions (43%) and the small number of observations, no academic journal would publish an article about the incumbent rule in presidential elections that argued for the incumbent rule. There is no way your t-statistic will give you a statistically significant result.
+<br />
+<br />So what do you do in situations like this? Well, you do what Pew and <em>NY Times</em> did this weekend. They <i>tested</i> the incumbent "rule." Those two outfits did not see any evidence that the undecideds were going to end up with Kerry. Gallup relied on this trend of theirs, which does not even seem like much of a trend...let alone a rule. </span>
+<br />
+</div>

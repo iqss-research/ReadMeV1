@@ -1,0 +1,3 @@
+<div>Republicans accuse Hillary of being too angry to be president.
+
+I hear that Hillary is <span>very angry</span> about that accusation...</div>

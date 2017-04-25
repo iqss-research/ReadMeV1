@@ -1,0 +1,42 @@
+<div>
+<a href="http://www.iraqitruthproject.com">Truth about Iraqis</a>
+<br />
+<br />
+<a href="http://www.woundedwarriorprojct.org">Wounded Warrior Project</a>
+<br />
+<br />
+<a href="http://www.freedomalliance.org">The Freedom Alliance</a>
+<br />
+<br />
+<a href="http://www.rightwingnews.com">News From The Right Wing</a>
+<br />
+<br />
+<a href="http://www.drudgereport.com">The Drudge Report</a>
+<br />
+<br />
+<a href="http://www.hannity.com">Hannity</a>
+<br />
+<br />
+<a href="http://www.gop.com">The GOP</a>
+<br />
+<br />
+<a href="http://www.newt.org">Newt</a>
+<br />
+<br />
+<a href="http://www.stophillarypac.com">Stop Hillary</a>
+<br />
+<br />
+<a href="http://www.cia.gov">CIA</a>
+<br />
+<br />
+<a href="http://www.howstuffworks.com">How Stuff Works</a>
+<br />
+<br />
+<a href="http://www.senate.gov">Info on the Senate</a>
+<br />
+<br />
+<a href="http://www.house.gov">Info on the House of Representatives</a>
+<br />
+<br />
+<a href="http://www.jibjab.com">Jib Jab</a>
+</div>

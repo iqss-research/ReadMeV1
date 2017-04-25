@@ -1,0 +1,62 @@
+<div id="sideBar">
+<!-- 
+			
+			+++++++++++++++++++++++++++++++++++++++++++++++++
+					
+			Add things to your sidebar here.
+			Use the format:
+			
+			<li><a href="URL">Link Text</a></li>
+		
+			+++++++++++++++++++++++++++++++++++++++++++++++++
+					<!--WEBBOT bot="HTMLMarkup" Endspan --> <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<input type="hidden" name="cmd" value="_s-xclick" />
+<p><input type="image" src="https://www.paypal.com/en_US/i/btn/x-click-butcc-donate.gif" border="0" name="submit" alt="Make payments with PayPal - it's fast, free and secure!" />
+<input type="hidden" name="encrypted" value="-----BEGIN PKCS7-----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-----END PKCS7-----
+" />
+<!-- Begin Official PayPal Seal --><a href="https://www.paypal.com/us/verified/pal=infinitedesign%40fastermac%2enet" target="_blank"><font size="2" face="verdana, arial, helvetica">
+<b>PayPal Verified</b></font></a><!-- End Official PayPal Seal -->
+</p><p><small><i>Thank You!</i></small>
+</p></form>
+<h4><u>News 'n Views</u></h4><p>
+<ul>
+<a href="http://threeforthsright.blogspot.com"><img src="http://feeds.feedburner.com/TheCreativeConservative.gif" height="67" width="200" style="border:0" alt="The Creative Conservative" /></a>
+</ul></p><p>
+<li><a href="http://www.rnc.org/">GOP.com</a></li>
+<li><a href="http://www.gopbloggers.org/mt/archives/000028.html">GOPbloggers</a></li>
+<li><a href="http://www.newsmax.com/">NewsMax</a></li>
+<li><a href="http://www.realclearpolitics.com/">Real Clear Politics</a></li>
+<li><a href="http://www.worldnetdaily.com/">WorldNetDaily</a></li>
+<li><a href="http://www.debka.com/">DEBKAfile</a></li>
+<li><a href="http://www.nationalreview.com/">NRO</a></li>
+<li><a href="http://www.steynonline.com/">Mark Steyn</a></li>
+<li><a href="http://www.techcentralstation.com/">Tech Station Central</a></li>
+<li><a href="	http://www.gopinsight.com/">GOP Insight</a></li> <li><a href="	http://www.frontpagemag.com/">Frontpage Magazine</a></li>
+<li><a href="http://www.activistchat.com/blogiran/">BLOG IRAN!</a></li>
+
+<img src="http://img.photobucket.com/albums/v57/Cynder/CoverBkgrd2RGB.jpg" />
+</p><p>
+<img src="http://img.photobucket.com/albums/v57/Cynder/Republican06.jpg" /> <a href="http://www.blogexplosion.com/index.php?ref=34RIGHT"><img src="http://banners.blogexplosion.com/button5.gif" width="100" height="15" border="0" /></a> <a href="http://blogclicker.com/?username=thecreativeconservative" target="_blank"><img src="http://blogclicker.com/banners/bc100x15.gif" border="0" /></a> <a href="http://feeds.feedburner.com/TheCreativeConservative" title="Subscribe to my feed"><img src="http://www.feedburner.com/fb/images/pub/fbapix.gif" alt="" style="border:0" /></a><a href="http://www.blogcatalog.com"><img src="http://www.blogcatalog.com/images/buttons/blogcatalog5.gif" border="0" /></a> <a href="http://www.blogxchange.us/index.php?referer=OTTMANN"><img src="http://www.blogxchange.us/banners/blogxchange_button.gif" border="0" /></a> <a href="http://www.blogtopsites.com/politics/"><img border="0" src="http://www.blogtopsites.com/tracker.php?do=in&amp;id=3071" alt="Politics Blog Top Sites" /></a>
+<h4><u>Review Posts</u></h4>
+<ul>
+<li><a href="http://threeforthsright.blogspot.com/2005_02_01_threeforthsright_archive.html">February 2005</a></li><li><a href="http://threeforthsright.blogspot.com/2005_03_01_threeforthsright_archive.html">March 2005</a></li><li><a href="http://threeforthsright.blogspot.com/2005_04_01_threeforthsright_archive.html">April 2005</a></li><li><a href="http://threeforthsright.blogspot.com/2005_05_01_threeforthsright_archive.html">May 2005</a></li><li><a href="http://threeforthsright.blogspot.com/2005_06_01_threeforthsright_archive.html">June 2005</a></li><li><a href="http://threeforthsright.blogspot.com/2005_07_01_threeforthsright_archive.html">July 2005</a></li><li><a href="http://threeforthsright.blogspot.com/2005_08_01_threeforthsright_archive.html">August 2005</a></li><li><a href="http://threeforthsright.blogspot.com/2005_09_01_threeforthsright_archive.html">September 2005</a></li><li><a href="http://threeforthsright.blogspot.com/2005_10_01_threeforthsright_archive.html">October 2005</a></li><li><a href="http://threeforthsright.blogspot.com/2005_11_01_threeforthsright_archive.html">November 2005</a></li><li><a href="http://threeforthsright.blogspot.com/2005_12_01_threeforthsright_archive.html">December 2005</a></li><li><a href="http://threeforthsright.blogspot.com/2006_01_01_threeforthsright_archive.html">January 2006</a></li><li><a href="http://threeforthsright.blogspot.com/2006_02_01_threeforthsright_archive.html">February 2006</a></li><li><a href="http://threeforthsright.blogspot.com/2006_03_01_threeforthsright_archive.html">March 2006</a></li><li><a href="http://threeforthsright.blogspot.com/2006_04_01_threeforthsright_archive.html">April 2006</a></li><li><a href="http://threeforthsright.blogspot.com/2006_06_01_threeforthsright_archive.html">June 2006</a></li><li><a href="http://threeforthsright.blogspot.com/2006_07_01_threeforthsright_archive.html">July 2006</a></li><li><a href="http://threeforthsright.blogspot.com/2006_08_01_threeforthsright_archive.html">August 2006</a></li>
+<!-- Link to the front page, from your archives -->
+<script type="text/javascript">if (location.href.indexOf("archive")!=-1) document.write("<li><strong><a href=\"http://threeforthsright.blogspot.com\">Current Posts</a></strong></li>");</script>
+</ul></p><p>
+<center><img src="http://img.photobucket.com/albums/v57/Cynder/Pants_on_Fire_revised.gif" alt="Image hosted by Photobucket.com" /></center> <center><a href="http://shop.wnd.com/store/item.asp?ITEM_ID=1770">Pants On Fire</a></center></p><p>
+<img src="http://img.photobucket.com/albums/v57/Cynder/TruthHill206x113.gif" alt="Image hosted by Photobucket.com" />
+<center><a href="http://www.newsmax.com/adv/truthhillary/?j=1207832&amp;e=ruddyc.com&amp;l=422279_HTML&amp;u=21949303">Truth about Hillary Clinton</a></center></p><p></p><p>
+<img src="http://img.photobucket.com/albums/v57/Cynder/BKP-0131.jpg" alt="Image hosted by Photobucket.com" />
+<center><a href="http://www.americanvision.org/proddetail.asp?prod=BKP-0131">Truth about Islam</a></center></p><p>
+<a href="http://www.blogexplosion.com/index.php?ref=34RIGHT"><img src="http://banners.blogexplosion.com/button1.gif" width="88" height="32" border="0" /></a>
+</p><p>
+<hr width="50%" size="3" />
+<a href="javascript:void(rollpop=window.open('http://www.blogrolling.com/add_links_pop.phtml?u=http://threeforthsright.blogspot.com/&amp;t=THE CREATIVE CONSERVATIVE','rollit','scrollbars=no,width=475,height=350,left=75,top=175,status=yes,resizable=yes'));rollpop.focus();"><u>Blogroll Us Now!</u></a>
+</p><p>
+</p><p>
+<h4>Creative BLOGROLL</h4>
+<small><script language="javascript" type="text/javascript" src="http://rpc.blogrolling.com/display.php?r=f7ab6bb8e1ce533d88fd300c9aa3e4e0"></script></small>
+</p><p><a href="http://kerry.senate.gov/bandwidth/contact/email.html"><img src="http://img.photobucket.com/albums/v57/Cynder/kerrys18035um.jpg" />
+<small><script language="javascript" type="text/javascript" src="http://rpc.blogrolling.com/display.php?r=21d10f3f6f7e2210beeb00fa77e7c8d3"></script></small>
+</a></p><p>
+</p></div>

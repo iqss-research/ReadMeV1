@@ -1,0 +1,58 @@
+<div id="sidebar">
+<h2 class="sidebar-title">Quote</h2>
+<p>I set out to be a reformer, but only became the historian of decline. ~Ludwig von Mises</p>
+<!-- Begin #profile-container -->
+<!-- End #profile -->
+<h2 class="sidebar-title">Email Me</h2>
+<ul>
+<a href="mailto:The.Historian.Of.Decline@gmail.com?subject=The Historian of Decline blog&amp;body= Wat be going D-I-Double-Gizzy down wit you historian? Yoe probably pimpin tha place up, but I gots`ta say, its already tha shizzit . Holla!">The Historian Of Decline</a>
+</ul>
+<h2 class="sidebar-title">Sponsored Links</h2>
+<ul>
+<center><script type="text/javascript"><!--
+google_ad_client = "pub-1622526563970262";
+google_ad_width = 160;
+google_ad_height = 600;
+google_ad_format = "160x600_as";
+google_ad_type = "text";
+google_ad_channel ="";
+
+google_color_border = "CCCCCC";
+google_color_bg = "FFFFFF";
+google_color_link = "000000";
+google_color_url = "666666";
+google_color_text = "333333";
+//--></script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></center><center>
+<h2 class="sidebar-title">Bestsellers</h2>
+</center></ul><ul>
+<center><iframe src="http://rcm-ca.amazon.ca/e/cm?t=thehistoriaof-20&amp;o=15&amp;p=6&amp;l=bn1&amp;mode=books-ca&amp;browse=927726&amp;fc1=000000&amp;=1&amp;lc1=0033FF&amp;lt1=_blank&amp;f=ifr&amp;bg1=FFFFFF" marginwidth="0" marginheight="0" width="120" height="150" border="2" frameborder="0" style="border:none;" scrolling="no"></iframe></center><center>
+</center></ul>
+<h2 class="sidebar-title">Previous</h2>
+<ul id="recently">
+<li><a href="http://thehistorianofdecline.blogspot.com/2005/08/worried-about-vote.html">Worried about vote</a></li>
+<li><a href="http://thehistorianofdecline.blogspot.com/2005/08/hitler-beats-blair-in-poll.html">Hitler beats Blair in poll</a></li>
+<li><a href="http://thehistorianofdecline.blogspot.com/2005/08/hillary-clinton.html">Hillary Clinton</a></li>
+<li><a href="http://thehistorianofdecline.blogspot.com/2005/08/politicians-hair.html">Politician's hair</a></li>
+<li><a href="http://thehistorianofdecline.blogspot.com/2005/08/no-fly-lists.html">No-fly lists</a></li>
+<li><a href="http://thehistorianofdecline.blogspot.com/2005/08/cindy-sheehan.html">Cindy Sheehan</a></li>
+<li><a href="http://thehistorianofdecline.blogspot.com/2005/08/bush-slaps-down-general.html">Bush slaps down general</a></li>
+<li><a href="http://thehistorianofdecline.blogspot.com/2005/08/situational-libertarianism.html">Situational Libertarianism</a></li>
+<li><a href="http://thehistorianofdecline.blogspot.com/2005/04/hole-drilled-to-bottom.html">Hole Drilled to Bottom</a></li>
+<li><a href="http://thehistorianofdecline.blogspot.com/2005/04/sharks.html">Sharks</a></li>
+</ul>
+<!--<h2 class="sidebar-title">New</h2>
+  
+  <p>This is a paragraph of text in the sidebar.</p>
+  -->
+<center><p id="powered-by"><a href="http://www.blogger.com"><img src="http://buttons.blogger.com/bloggerbutton1.gif" alt="Powered by Blogger" /></a></p>
+<p><!-- Start of StatCounter Code -->
+<script type="text/javascript" language="javascript">
+  var sc_project=603828; 
+  var sc_partition=4; 
+  var sc_security="a3b0a182"; 
+  </script>
+<script type="text/javascript" language="javascript" src="http://www.statcounter.com/counter/counter.js"></script><noscript><a href="http://www.statcounter.com/" target="_blank"><img src="http://c5.statcounter.com/counter.php?sc_project=603828&amp;java=0&amp;security=a3b0a182" alt="free website hit counter" border="0" /></a> </noscript>
+<!-- End of StatCounter Code --></p></center><center>
+</center></div>

@@ -1,0 +1,29 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}
+\BOOKMARK [1][-]{section.2}{Installation}{}
+\BOOKMARK [2][-]{subsection.2.1}{Python \(Required\)}{section.2}
+\BOOKMARK [2][-]{subsection.2.2}{Windows}{section.2}
+\BOOKMARK [2][-]{subsection.2.3}{Linux/Unix}{section.2}
+\BOOKMARK [2][-]{subsection.2.4}{Updating VA}{section.2}
+\BOOKMARK [1][-]{section.3}{Examples}{}
+\BOOKMARK [2][-]{subsection.3.1}{Estimating Blogger Sentiment Toward Senator Hillary Clinton}{section.3}
+\BOOKMARK [1][-]{section.4}{R Function Reference}{}
+\BOOKMARK [2][-]{subsection.4.1}{Function undergrad\(\)}{section.4}
+\BOOKMARK [3][-]{subsubsection.4.1.1}{Usage}{subsection.4.1}
+\BOOKMARK [3][-]{subsubsection.4.1.2}{Inputs}{subsection.4.1}
+\BOOKMARK [3][-]{subsubsection.4.1.3}{Value}{subsection.4.1}
+\BOOKMARK [3][-]{subsubsection.4.1.4}{Details}{subsection.4.1}
+\BOOKMARK [2][-]{subsection.4.2}{Function preprocess}{section.4}
+\BOOKMARK [3][-]{subsubsection.4.2.1}{Usage}{subsection.4.2}
+\BOOKMARK [3][-]{subsubsection.4.2.2}{Inputs}{subsection.4.2}
+\BOOKMARK [3][-]{subsubsection.4.2.3}{Value}{subsection.4.2}
+\BOOKMARK [2][-]{subsection.4.3}{Function readme\(\)}{section.4}
+\BOOKMARK [3][-]{subsubsection.4.3.1}{Usage}{subsection.4.3}
+\BOOKMARK [3][-]{subsubsection.4.3.2}{Inputs}{subsection.4.3}
+\BOOKMARK [3][-]{subsubsection.4.3.3}{Value}{subsection.4.3}
+\BOOKMARK [2][-]{subsection.4.4}{Examples}{section.4}
+\BOOKMARK [1][-]{section.5}{Hand-Coding Procedures}{}
+\BOOKMARK [2][-]{subsection.5.1}{Define Objectives}{section.5}
+\BOOKMARK [2][-]{subsection.5.2}{Develop the Corpus}{section.5}
+\BOOKMARK [2][-]{subsection.5.3}{Develop Coding Procedures}{section.5}
+\BOOKMARK [2][-]{subsection.5.4}{Coder Training and Evaluation}{section.5}
+\BOOKMARK [2][-]{subsection.5.5}{Assembling and Reporting Results}{section.5}

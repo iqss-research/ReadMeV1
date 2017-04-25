@@ -1,0 +1,28 @@
+<ul>
+<li><a href="http://server.com/WebApps/NewsApp/news-read.cgi?profile=2459">Blogdom of God - Christian Blogs Aggregator</a></li>
+<li><a href="http://www.blogs4god.com/">blogs4God | A semi-definitive list of Christians who blog.</a></li>
+<li><a href="http://server.com/WebApps/NewsApp/news-read.cgi?profile=6335">Christian Bloggers</a></li>
+<li><a href="http://www.bloglines.com/public/EvangelicalAggregator">Evangelical Aggregator</a></li>
+<li><a href="http://server.com/WebApps/NewsApp/news-read.cgi?profile=5505">Reformed &amp; Charismatic blogs</a></li>
+<li><a href="http://server.com/WebApps/NewsApp/news-read.cgi?profile=5438">Women4God Blogs</a></li>
+<li><a href="http://www.blogforbooks.com/">Blog For Books</a></li>
+<li><a href="http://www.sojo.net/">Sojourners: Christians for Justice and Peace</a></li>
+<li><a href="http://www.wayofthemaster.com/">The Way of the Master</a></li>
+<li><a href="http://www.persecutionblog.com/">Christian Persecution Blog</a></li>
+<li><a href="http://www.ringsurf.com/netring?ring=ChristianBloggers;action=addform">Join: Christian Bloggers</a></li>
+<li><a href="http://www.ringsurf.com/netring?action=addform&ring=evangelicalchristian">Join: Evangelical Christian</a></li>
+<li><a href="http://www.ringsurf.com/netring?action=addform&ring=BlogsForHillary">Join: Blogs For Hillary</a></li>
+<li><a href="http://www.ringsurf.com/?action=addform&ring=adayinthelife">Join: A Day In The Life</a></li>
+<li><a href="http://www.ringsurf.com/netring?action=addform&ring=hillaryclinton">Join: Hillary Clinton 2008</a></li>
+<li><a href="http://www.mycorneroftheworld.net/">My Corner Of The World</a></li>
+<li><a href="http://blogsbychristians.blogspot.com/">Christian Bloggers</a></li>
+<li><a href="http://blogsforhillary.blogspot.com/">Blogs for Hillary</a></li>
+<li><a href="http://iamachristiantoo.org/">I am a Christian Too</a></li>
+<li><a href="http://www.adrian.warnock.info/">Adrian's Blog</a></li>
+<li><a href="http://www.theopedia.com/">Theopedia</a></li>
+<li><a href="http://www.alternet.org/">AlterNet</a></li>
+<li><a href="http://www.alertnet.org/">Reuters AlertNet</a></li>
+<li><a href="http://www.agapepress.org/default.asp">AgapePress</a></li>
+<li><a href="http://www.cnn.com/">CNN</a></li>
+<li><a href="http://msnbc.msn.com/">MSNBC</a></li>
+</ul>

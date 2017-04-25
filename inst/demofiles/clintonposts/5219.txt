@@ -1,0 +1,228 @@
+All of this reflects things as of July 19th, 2006. The searches were done by me in North Africa.<br /><br />
+
+Many candidates showed large increases in raw chatter, and very few (only 2 Democrats and 5 Republicans) experienced declines, and of these only Jeb Bush declined sharply.
+
+<br /><br />
+The monthly prediction...<br />
+<b>Jul '06: Clinton & Warner over Allen & Romney</b><br />
+<b>Jun '06: Clinton & Warner over Allen & Romney</b><br />
+<b>May '06: Clinton & Warner over Allen & Romney</b><br />
+<b>Apr '06: Clinton & Warner over Allen & Romney</b><br />
+<b>Mar '06: Clinton & Warner over Allen & Rice</b><br />
+<b>Feb '06: Clinton & Warner over Allen & Rice</b><br />
+
+<br /><br />
+<a href="http://election2020.blogspot.com/2006/04/chatter-ranking-graphs.html">Check out graphs of the Chatter Rankings from May 2005 through April 2006</a>
+<br /><br />
+<table>
+<tbody><tr>
+<td><strong>Rank </strong></td><td><strong> Candidate</strong></td><td><strong> Chatter</strong></td><td><strong>Rank
+Change</strong></td></tr>
+
+<tr><td>R.1</td>
+<td>
+Sen. John McCain
+</td><td>
+1,870</td><td><span>0</span>
+</td></tr>
+
+<tr><td>R.2</td><td>
+Sen. Bill Frist
+</td><td>
+1,610</td><td><span>0</span>
+</td></tr>
+
+<tr><td>R.3</td>
+<td>
+Gov. Mitt Romney
+</td><td>
+1,080</td><td><span>+5</span>
+</td></tr>
+
+<tr><td>R.4</td>
+<td>
+Sen. George Allen
+</td><td>
+1,030</td><td><span>0</span>
+</td></tr>
+
+<tr><td>R.5</td>
+<td>
+Sen. Sam Brownback
+</td><td>
+691</td><td><span>+5</span>
+</td></tr>
+
+<tr><td>R.6</td>
+<td>
+Rudy Giuliani
+</td><td>
+679</td><td><span>-1</span>
+</td></tr>
+
+<tr><td>R.7</td>
+<td>
+Sen. Chuck Hagel
+</td><td>
+528</td><td><span>+5</span>
+</td></tr>
+
+<tr><td>R.8</td>
+<td>
+Secy. Condoleezza Rice
+</td><td>
+426</td><td><span>-2</span>
+</td></tr>
+
+<tr><td>R.9</td>
+<td>
+Gov. George Pataki
+</td><td>
+334</td><td><span>-2</span>
+</td></tr>
+
+<tr><td>R.10</td>
+<td>
+Gov. Mike Huckabee
+</td><td>
+212</td><td><span>-1</span>
+</td></tr>
+
+<tr><td>R.11</td>
+<td>
+Gov. Jeb Bush
+</td><td>
+195</td><td><span>-8</span>
+</td></tr>
+
+<tr><td>R.12</td>
+<td>
+Newt Gingrich
+</td><td>
+193</td><td><span>-1</span>
+</td></tr>
+
+<tr><td>R.13</td>
+<td>
+Rep. Tom Tancredo
+</td><td>
+18</td><td><span>0</span>
+</td></tr>
+
+<tr><td>...............</td><td>...............................................</td><td>.......................</td><td>...............</td></tr>
+
+<tr><td>D.1</td>
+<td>
+Sen. Hillary Clinton
+</td><td>
+2,910</td><td><span>0</span>
+</td></tr>
+
+<tr><td>D.2</td>
+<td>
+Sen. John Kerry
+</td><td>
+2,450</td><td><span>0</span>
+</td></tr>
+
+<tr><td>D.3</td>
+<td>
+Sen. Russ Feingold
+</td><td>
+1,470</td><td><span>+4</span>
+</td></tr>
+
+<tr><td>D.4</td>
+<td>
+Sen. Harry Reid
+</td><td>
+1,020</td><td><span>0</span>
+</td></tr>
+
+<tr><td>D.5</td>
+<td>
+Al Gore
+</td><td>
+931</td><td><span>-2</span>
+</td></tr>
+
+<tr><td>D.6</td>
+<td>
+Sen. John Edwards
+</td><td>
+740</td><td><span>-1</span>
+</td></tr>
+
+<tr><td>D.7</td>
+<td>
+Sen. Evan Bayh
+</td><td>
+601</td><td><span>+4</span>
+</td></tr>
+
+<tr><td>D.8</td>
+<td>
+Gov. Mark Warner
+</td><td>
+415</td><td><span>+1</span>
+</td></tr>
+
+<tr><td>D.9</td>
+<td>
+Howard Dean
+</td><td>
+365</td><td><span>-1</span>
+</td></tr>
+
+<tr><td>D.10</td>
+<td>
+Sen. Joseph Biden
+</td><td>
+323</td><td><span>-4</span>
+</td></tr>
+
+<tr><td>D.11</td>
+<td>
+Gov. Tom Vilsack
+</td><td>
+316</td><td><span>+2</span>
+</td></tr>
+
+<tr><td>D.12</td>
+<td>
+Sen. Barack Obama
+</td><td>
+306</td><td><span>-2</span>
+</td></tr>
+
+<tr><td>D.13</td>
+<td>
+Gov. Bill Richardson
+</td><td>
+227</td><td><span>-1</span>
+</td></tr>
+
+<tr><td>D.14</td>
+<td>
+Wesley Clark
+</td><td>
+181</td><td><span>0</span>
+</td></tr>
+
+<tr><td>D.15</td>
+<td>
+Tom Daschle
+</td><td>
+125</td><td><span>0</span>
+</td></tr>
+
+</tbody></table>
+
+<br />
+<i><small>Notes: The Chatter Rankings are created by searching each candidate's name plus "2008" in the Google News database.
+This month's tested-but-not-qualifying list is Rep. John Murtha, Gov. Brian Schweitzer, and Haley Barbour. Some of the men on the list almost surely won't run for president (Reid, Dean) and are there just in case, or as an indication of VP popularity. 
+</small></i><br /><br />
+
+See the Chatter Rankings from 
+<a href="http://globalreview.blogspot.com/2006/06/free-for-all-2008-does-exposure-mean.html">June</a>,
+<a href="http://globalreview.blogspot.com/2006/05/free-for-all-2008-ten-little-indians.html">May</a>, <a href="http://globalreview.blogspot.com/2006/04/free-for-all-2008-immigration-card.html">April</a>, <a href="http://globalreview.blogspot.com/2006/03/free-for-all-2008-old-new-democrats.html">March</a>, <a href="http://globalreview.blogspot.com/2006/02/free-for-all-2008-iowa-blues.html">February</a>, <a href="http://globalreview.blogspot.com/2005/12/free-for-all-2008-it-isnt-brett-favres.html">December</a>, <a href="http://instantreplay.blogspot.com/2005/08/free-for-all-2008-something-old.html">August</a>, <a href="http://instantreplay.blogspot.com/2005/07/free-for-all-2008-does-mccain-have.html">July</a>, <a href="http://instantreplay.blogspot.com/2005/06/free-for-all-2008-tale-of-two.html">June</a>, and <a href="http://instantreplay.blogspot.com/2005/05/free-for-all-2008-one-way-to-white.html">May</a>.

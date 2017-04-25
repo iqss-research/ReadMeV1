@@ -1,0 +1,76 @@
+<html>
+<head>
+<title>ReadMe Software Website</title>
+<script language='Javascript' src='/gking.js'></script></HEAD>
+
+<BODY><script language="Javascript">displayHeader("ReadMe: Software for Automated Content Analysis")</script>
+
+<a href="http://www.danhopkins.org">Daniel Hopkins</a>, <a
+href="http://gking.harvard.edu/">Gary King</a>, <a href="">Matthew Knowles</a>, <a
+href="">Steven Melendez</a>
+
+<br /><br />
+<!-- rbuild: replace 'Version:' '</b>' version -->
+<b>Version:0.99836</b>
+
+<p style="float:right; width: 200px; margin: 1.5em;"> <img
+src="stack-of-papers.jpg" width="200px" /> <br /><small>
+You can read our way or her way!</small></p>
+
+
+<p />The ReadMe software package for R takes as input a set of text
+documents (such as speeches, blog posts, newspaper articles, judicial
+opinions, movie reviews, etc.), a categorization scheme chosen by the
+user (e.g., ordered positive to negative sentiment ratings, unordered
+policy topics, or any other mutually exclusive and exhaustive set of
+categories), and a small subset of text documents hand classified into
+the given categories.  If used properly, ReadMe will report, normally
+within sampling error of the truth, the proportion of documents within
+each of the given categories among those not hand coded.  ReadMe
+computes quantities of interest to the scientific community based on
+the distribution within categories but does so by skipping the more
+error prone intermediate step of classifing individual documents.
+Other procedures are also included to make processing text easy.
+
+  <ul>
+    <li>Documentation:
+    <a href="http://gking.harvard.edu/readme/docs/readme.pdf">PDF</a> </li>
+
+    <li><span class="orange"><strong>All</strong> questions, bugs, and
+    requests</span>:
+	ReadMe Mailing List, <a
+	href="http://lists.gking.harvard.edu/index.cgi?info=readme"
+	target="gkingext">[Un]Subscribe</a>, or <a
+	href="http://lists.hmdc.harvard.edu/lists/readme/"
+	target="gkingext">Browse/Search Archives</a></li>
+
+    <li>ReadMe implements methods described in Daniel Hopkins and Gary
+    King, <span class="bg">A Method of Automated Nonparametric Content
+    Analysis for Social Science</span>, <em>American Journal of
+    Political Science</em>, 54, 1 (January 2010): 229--247. (<span
+    class="bg">Paper:</span> <a
+    href="http://gking.harvard.edu/files/words.pdf">PDF</a> | <span
+    class="bg">Abstract:</span> <a
+    href="http://gking.harvard.edu/files/abs/words-abs.shtml">HTML</a>)
+ </li>
+
+    <li><a href="http://gking.harvard.edu/readme/" target="ChangeDetectionWiz"
+	onClick="doChangeDetectionPopup()"> Track ReadMe changes</a></li>
+
+  <li>To install from an interactive R session:
+	<pre>
+        install.packages("VA", repos="http://r.iq.harvard.edu", type="source")
+	install.packages("ReadMe", repos="http://r.iq.harvard.edu", type="source")
+        </pre></li>
+
+  </ul>
+
+
+<p /><span class="orange"><strong>License:</strong></span> Creative
+Commons Attribution- Noncommercial-No Derivative Works 3.0 License,
+for academic use only.  A commerical (and industrial strength) version
+has been built by, licensed to, and offered by <a
+href="http://crimsonhexagon.com">Crimson Hexagon</a>.
+
+<script language="Javascript">displayFooter()</script></BODY>
+</html>

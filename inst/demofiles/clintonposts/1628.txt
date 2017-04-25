@@ -1,0 +1,4 @@
+<div class="node sticky">
+<p style="margin: 5px">
+<span class="submitted">Submitted by larry on August 25, 2006 - 4:47pm.</span><br /> <span class="taxonomy"><a href="/ccn/taxonomy/term/217" rel="tag" title="">2008</a> | <a href="/ccn/taxonomy/term/600" rel="tag" title="">Hillary Clinton</a> | <a href="/ccn/taxonomy/term/599" rel="tag" title="">Mike Huckabee</a> | <a href="/ccn/taxonomy/term/295" rel="tag" title="">Wes Clark</a> | <a href="/ccn/taxonomy/term/252" rel="tag" title="">Democratic politics</a></span> </p>
+</div>
