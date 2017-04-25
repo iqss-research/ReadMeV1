@@ -1,3 +1,5 @@
+library(ReadMe)
+
 oldwd <- getwd()
 setwd(system.file("demofiles/clintonposts", package="ReadMe"))
 
