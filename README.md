@@ -21,6 +21,8 @@ See Daniel Hopkins and Gary King, "A Method of Automated Nonparametric Content
 Analysis for Social Science," American Journal of Political
 Science, <http://gking.harvard.edu/files/abs/words-abs.shtml>
 
+More documentation can be found at: http://gking.harvard.edu/files/gking/files/readme.pdf
+
 
 ## Example
 
