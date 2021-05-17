@@ -23,7 +23,7 @@ Science, <http://gking.harvard.edu/files/abs/words-abs.shtml>
 
 More documentation can be found at: http://gking.harvard.edu/files/gking/files/readme.pdf
 
-A second version of this software can be found at https://github.com/iqss-research/readme-software
+A related software package can be found at https://github.com/iqss-research/readme-software
 
 ## Example
 
